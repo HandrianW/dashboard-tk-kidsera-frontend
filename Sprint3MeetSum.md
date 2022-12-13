@@ -9,7 +9,7 @@
 
 1. **Menu Rombongan Belajar**
 	- Frontend <br>
-	(Diisi Fikri)
+	Membuat Core frontend Ionic Halaman Rombongan Belajar(rombel) antara lain Halaman rombel Utama, Form tambah rombel, tahun ajaran rombel, dan detail dari tahun ajaran rombel
 	- Backend <br>
 	Membuat API tambah rombel, update rombel, mendapatkan data rombel berdasarkan Id, dan mendapatkan data keseluruhan rombel 
 2. **Menu Sarpras dan Ruang**
